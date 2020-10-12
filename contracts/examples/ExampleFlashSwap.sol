@@ -3,7 +3,7 @@ pragma solidity =0.6.6;
 import '@aidigitaldreamers/v1-core/contracts/interfaces/INetixswapCallee.sol';
 
 import '../libraries/NetixswapLibrary.sol';
-import '../interfaces/V1/NetixswapFactory.sol';
+import '../interfaces/V1/INetixswapFactory.sol';
 import '../interfaces/V1/INetixswapExchange.sol';
 import '../interfaces/INetixswapRouter01.sol';
 import '../interfaces/IERC20.sol';

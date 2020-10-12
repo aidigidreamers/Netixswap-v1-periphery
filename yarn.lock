@@ -7,7 +7,7 @@
   resolved "https://registry.yarnpkg.com/@aidigitaldreamers/lib/-/lib-1.1.1.tgz#e8c8aaef08c4b10d959127cb4b02e8b343db3839"
   integrity sha512-jlHSrOEnkRDpfTsvFmuKsR5JIGUkbOLLC0zzOtxJ0+BEaUsf9J5OxsIB2M3PWUxsg8/9+xrd02mg3R57dPbo4A==
 
-"@aidigitaldreamers/v1-core@1.0.0":
+"@aidigitaldreamers/v1-core@1.0.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@aidigitaldreamers/v1-core/-/v1-core-1.0.1.tgz#b137d42086489dedf23b5fe7a835549ca4b33fbf"
   integrity sha512-dx/g0I8jmeOvBeY7y/U9siDMnqSBxrFXqEvOMSVDeQTREYsqVQpzjeRf6ESZhALs4TpB6wq1WPOpnYaiBkzdwQ==
