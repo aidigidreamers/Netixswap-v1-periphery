@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "@aidigitaldreamers/lib": "1.1.1",
-    "@aidigitaldreamers/v1-core": "1.0.0"
+    "@aidigitaldreamers/v1-core": "1.0.1"
   },
   "devDependencies": {
     "@types/chai": "^4.2.6",
