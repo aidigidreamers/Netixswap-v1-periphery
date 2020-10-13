@@ -1,6 +1,6 @@
 pragma solidity =0.6.6;
 
-import '@aidigitaldreamers/v2-core/contracts/interfaces/INetixswapV1Factory.sol';
+import '@aidigitaldreamers/v1-core/contracts/interfaces/INetixswapV1Factory.sol';
 import '@aidigitaldreamers/lib/contracts/libraries/TransferHelper.sol';
 
 import './libraries/NetixswapV1Library.sol';
