@@ -15,7 +15,7 @@
     "contracts"
   ],
   "dependencies": {
-    "@aidigitaldreamers/lib": "1.1.1",
+    "@aidigitaldreamers/lib": "1.1.2",
     "@aidigitaldreamers/v1-core": "1.0.3"
   },
   "devDependencies": {
